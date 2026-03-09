@@ -1,8 +1,4 @@
 {
-  "black": [
-    "cards/black/prompt-001.json"
-  ],
-  "white": [
-    "cards/white/response-001.json"
-  ]
+  "blackCount": 10,
+  "whiteCount": 10
 }
