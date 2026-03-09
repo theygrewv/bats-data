@@ -1,13 +1,8 @@
 {
-  "game": "B.A.T.S. Core Set",
-  "version": "1.0.0",
-  "stats": {
-    "blackCardsCount": 10,
-    "whiteCardsCount": 10
-  },
-  "paths": {
-    "black": "data/cards/black/prompt-",
-    "white": "data/cards/white/response-"
-  },
-  "lastUpdated": "2026-03-09T12:00:00Z"
+  "black": [
+    "cards/black/prompt-001.json"
+  ],
+  "white": [
+    "cards/white/response-001.json"
+  ]
 }
